@@ -1,0 +1,2 @@
+# HiveTutorial
+Important Hive scripts
