@@ -1,3 +1,9 @@
+Task 1 – HDP Cluster Installation
+Set up a 3-node (at least) cluster of the latest Hortonworks Data Platform via Ambari installation. You'll need to evaluate which components are actually required based on the rest of the exercise.
+
+	Refer Attached File with screenshots
+
+
 # Horton Assessment 
 TASK 1: Data Pipelines in Hive
 
